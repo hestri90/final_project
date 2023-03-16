@@ -55,3 +55,24 @@ footer > change title
 
 framework code igniter 3 :
 https://codeigniter.com/download
+
+pengumpulan final project
+1. code aplikasi > jika pake bootstrap dikasih nama folder "bio_namapeserta"
+2. readme.txt untuk sesi 08 dan final project
+3. link netifly > buat repo baru
+4. biodata peserta 
+  - kode peserta
+  - nama peserta
+  - alamat
+  - hobi
+  
+di push di dalam sesi 8 > tugas
+di push di final project 
+
+ex : 1 paket folder (di push ke github)
+sesi-1
+sesi-2
+sesi-3
+sesi-4
+final-project (masuk ke folder final project copy link > di upload di classroom + kodepeserta_namapeserta_finalproject_landingpage.zip)
+  > taruh final project
